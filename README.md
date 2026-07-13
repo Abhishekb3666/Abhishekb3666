@@ -94,13 +94,17 @@ poking at it.
 
 ### 🔧 Currently building
 
-- First automated update lands after the pipeline's next run, check back soon.
+- **[get-md](https://github.com/Abhishekb3666/get-md)** — A fast, lightweight HTML to Markdown converter optimized for LLM consumption. Uses proven parsing libraries to deliver clean, well-structured markdown with intelligent content extraction and noise filtering.
+- **[brunda-beauty-parlour](https://github.com/Abhishekb3666/brunda-beauty-parlour)** — Actively pushing updates
+- **[quicksell](https://github.com/Abhishekb3666/quicksell)** — Actively pushing updates
+- **[Airbnb-House-Price-Prediction](https://github.com/Abhishekb3666/Airbnb-House-Price-Prediction)** — Actively pushing updates
+- **[Dark2Light](https://github.com/Abhishekb3666/Dark2Light)** — Actively pushing updates
 
 ### 🌱 Recent open source contributions
 
 - First automated contribution is on its way, watch this space.
 
-*Last updated: not yet run*
+*Last updated: 2026-07-13*
 
 <!-- PORTFOLIO:AUTO-END -->
 
